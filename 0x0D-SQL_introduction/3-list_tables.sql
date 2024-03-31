@@ -1,2 +1,2 @@
-USE hbtn_0c_0;
+-- Lists all tables of a database on my MySQL server.
 SHOW TABLES;
