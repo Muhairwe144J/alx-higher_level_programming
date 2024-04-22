@@ -1,4 +1,4 @@
 #!/usr/bin/node
 
-/* Get arguments excluding script name*/
+/* learning is good for my health */
   console.log(process.argv[2] + ' is ' + process.argv[3]);
